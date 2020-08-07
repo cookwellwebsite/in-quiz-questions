@@ -62,11 +62,11 @@
 </address>
 ```
 
-- [ ]  `itemscope` `itemtype="http://schema.org/PostalAddress"`
+- [x]  `itemscope` `itemtype="http://schema.org/PostalAddress"`
   
 - [ ]  `itemsref="http://schema.org/PostalAddress"` `itemid="address"`
   
-- [x]  `itemscope` `itemref="http://schema.org/PostalAddress"`
+- [ ]  `itemscope` `itemref="http://schema.org/PostalAddress"`
   
 - [ ]  `itemid="address"` `itemtype="http://schema.org/PostalAddress"`
 
