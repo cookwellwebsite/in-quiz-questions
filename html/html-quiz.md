@@ -46,8 +46,8 @@
 
 - [ ] `<button><input><form>`
 - [ ] `<input><label><meter>`
-- [x] `<input><option><textarea>`
-- [ ] `<li><input><option>`
+- [ ] `<input><option><textarea>`
+- [x] `<li><input><option>`
   
 #### Q8. What should fill the two blanks in the HTML code below?
 
